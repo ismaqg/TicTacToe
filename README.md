@@ -3,20 +3,20 @@
 
 Juegos desarrollados con la libreria SFML en el lenguaje c++
 
-Si quiere ejecutarlo en linux deberá instalar las librerías para SFML:
-<br> sudo apt-get install libsfml-dev </br>
+Si quiere ejecutarlo en linux deberá instalar las librerías para SFML. Para ello deberá escribir en el terminal lo siguiente:
+#> sudo apt-get install libsfml-dev
 (igual antes necesita hacer sudo apt update)
 
 Hay adjunto un makefile, así que simplemente deberá escribir "make" (sin las comillas) en el terminal para que se compile el juego. Una vez compilado podrá ejecutarlo:
 EJECUTAR JUEGO CLÁSICO:
-# ./3enraya_normal
+#> ./3enraya_normal
 EJECUTAR VARIANTE DEL 3 EN RAYA:
-# ./3enraya_extremo
+#> ./3enraya_extremo
 
 Al final de todo, si no desea conservar los archivos de esta librería puede hacer:
-# sudo apt-get remove libsfml-dev
+#> sudo apt-get remove libsfml-dev
 Esto no liberará todo el espacio que ha ocupado al instalar la librería, para ello tendrá que escribir (despues de ejecutar la orden anterior) 
-# sudo apt autoremove 
+#> sudo apt autoremove 
 Esto lo que hace es "borrar los paquetes huérfanos, o las dependencias que quedan instaladas después de haber instalado una aplicación y luego eliminarla, por lo que ya no son necesarias." (información extraída de https://blog.desdelinux.net/comandos-para-liberar-espacio-con-apt-get/)
 
 
