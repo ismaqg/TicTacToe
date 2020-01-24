@@ -4,7 +4,7 @@
 Juegos desarrollados con la libreria SFML en el lenguaje c++
 
 Si quiere ejecutarlo en linux deberá instalar las librerías para SFML:
-# sudo apt-get install libsfml-dev
+<br> sudo apt-get install libsfml-dev </br>
 (igual antes necesita hacer sudo apt update)
 
 Hay adjunto un makefile, así que simplemente deberá escribir "make" (sin las comillas) en el terminal para que se compile el juego. Una vez compilado podrá ejecutarlo:
