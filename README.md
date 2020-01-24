@@ -20,6 +20,9 @@ Esto no liberará todo el espacio que ha ocupado al instalar la librería, para 
 Esto lo que hace es "borrar los paquetes huérfanos, o las dependencias que quedan instaladas después de haber instalado una aplicación y luego eliminarla, por lo que ya no son necesarias." (información extraída de https://blog.desdelinux.net/comandos-para-liberar-espacio-con-apt-get/)
 
 
+En su ordenador meta todos los archivos en la misma carpeta!!
+
+
 # 3 EN RAYA EXTREMO, CÓMO FUNCIONA?
 
 Ésta es la variante de 3 en raya que encontrará aquí. La idea es cambiar el mayor problema del 3 en raya original: Que las partidas normalmente queda empate. Para ello cada jugador va con una ficha, pero a la hora de colocar una ficha en el tablero es completamente aleatorio si colocan una suya o del oponente. Esto implica que, por ejemplo, si usted juga con las cruces y el oponente con los circulos y tenemos dos circulos en raya, deba decidir si frefiere impedir su tres en raya (a sabiendas de que puede colocar una ficha del oponente y eso implicaría regalarle la partida) o colocar en otro lugar y que sea su oponente el que deba decidir si arriesgarse a hacer 3 en raya o a fastidiarse él mismo su posibilidad de hacer 3 en raya.
