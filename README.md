@@ -1,7 +1,7 @@
 # TicTacToe
 2 juegos: 3 en raya clasico y una variante
 
-Juegos desarrollados con la libreria SFML en el lenguaje c++
+Juegos desarrollados con la libreria SFML en el lenguaje c++. **Desarrollado al acabar 1o de carrera,** por lo que la calidad del código no es muy buena... Pero el resultado sí me deja satisfecho.
 
 Si quiere ejecutarlo en linux deberá instalar las librerías para SFML. Para ello deberá escribir en el terminal lo siguiente:
 #> sudo apt-get install libsfml-dev
